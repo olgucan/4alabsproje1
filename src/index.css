@@ -5,9 +5,26 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(249, 250, 251);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* .recharts-wrapper {
+  width:100% !important;
+  
+}
+.recharts-wrapper > svg {
+  width:100% !important;
+ 
+}
+.recharts-legend-wrapper {
+  width:100% !important;
+  min-width:500px !important;
+}
+.recharts-cartesian-grid {
+  width:100%;
+} */
